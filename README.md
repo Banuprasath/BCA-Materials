@@ -62,7 +62,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact 📬
 If you have any questions, suggestions, or need assistance, don't hesitate to reach  me:
 
-Your Name
+
 Email: banuprasath0339@gmail.com
 
 Happy studying! 🎓
